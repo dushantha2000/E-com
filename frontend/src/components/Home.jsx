@@ -10,10 +10,8 @@ function Home() {
       <Layout>
         <Hero />
         <LatestProduct />
-  <FeaturedProduct />
+        <FeaturedProduct />
       </Layout>
-
-     
     </>
   );
 }
